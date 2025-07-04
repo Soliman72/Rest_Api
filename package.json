@@ -9,7 +9,7 @@
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "mongoose": "^7.5.3",
-    "pino": "^8.15.1",
+    "pino": "^8.21.0",
     "pino-pretty": "^10.2.0",
     "zod": "^3.22.2"
   },
